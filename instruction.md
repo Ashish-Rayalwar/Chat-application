@@ -8,3 +8,6 @@ react dependancies = {
     react-scroll-to-bottom
     socket.io-client
 }
+
+
+check the project link   =    https://funny-lamington-2a92e6.netlify.app
